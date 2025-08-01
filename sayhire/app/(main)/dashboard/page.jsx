@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-import React from 'react'
-
-function Dashboard() {
-  return (
-    <div>Dashboard</div>
-=======
 "use client"
 import React from 'react'
 import WelcomeContainer from './_components/WelcomeContainer'
@@ -19,7 +12,6 @@ function Dashboard() {
        <CreateOptions/>
        <LatestInterviewList/>
     </div>
->>>>>>> 5bf1f5b (second)
   )
 }
 
